@@ -9434,8 +9434,13 @@ button:focus {
 .grid.grid-4col li.grid-item-single {
   width: 100%;
 }
+.grid ul{
+  display:flex;
+  justify-content: center;
+}
 .grid.grid-3col li {
   width: 33.33%;
+  
 }
 .grid.grid-3col li.grid-item-double {
   width: 66.67%;

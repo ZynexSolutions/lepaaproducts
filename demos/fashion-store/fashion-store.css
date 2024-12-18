@@ -175,6 +175,12 @@ footer .elements-social.social-icon-style-02 li {
     padding: 5px 10px;
     font-weight: 500;
 }
+
+.centers{
+    
+  justify-content: center;
+
+}
 /* media query responsive */
 @media (max-width: 1399px) {
     .sticky-wrap.shadow-in { left: 25px; }
