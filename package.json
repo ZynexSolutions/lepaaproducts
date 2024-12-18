@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "ThemeZaa",
-  "license": "ISC", 
+  "license": "ISC",
   "devDependencies": {
     "cssnano": "^6.0.1",
     "grunt": "^1.4.1",
@@ -28,6 +28,7 @@
   },
   "dependencies": {
     "browser-sync": "^2.29.3",
+    "crafto": "file:",
     "gulp-minify-css": "^1.2.4",
     "gulp-update": "^0.0.2"
   }
