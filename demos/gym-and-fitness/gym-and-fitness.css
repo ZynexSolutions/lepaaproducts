@@ -112,20 +112,24 @@ h6 {
   background-color: #1c1c1c;
 }
 .bg-cultured {
-  background-color: #f4f9f6;
+  background-color: white;
 }
 .bg-base-color-transparent {
-  background-color: rgba(145, 216, 0, 0.95);
+  background-color: white;
 }
 .bg-base-color-transparent-light {
-  background-color: rgba(145, 216, 0, 0.6);
+  background-color: white;
 }
 /* border color */
 .border-color-base-color-transparent {
-  border-color: rgba(116, 214, 11, 0.3) !important;
+  border-color: white !important;
 }
 .event-style-03 .nav-tabs .nav-link {
   padding-top: 21px;
+}
+
+.pads{
+  padding-top: 5px;
 }
 /* box shadow */
 .box-shadow-double-large {
