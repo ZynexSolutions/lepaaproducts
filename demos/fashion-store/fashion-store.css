@@ -181,6 +181,28 @@ footer .elements-social.social-icon-style-02 li {
   justify-content: center;
 
 }
+.align{
+    width:100%;
+    
+}
+
+@media (min-width: 992px){
+    .align{
+        display:flex;
+        justify-content: center;
+        margin-left: -40px;
+    }
+}
+@media (min-width: 1400px){
+    .align{
+        display:flex;
+        justify-content: center;
+        margin-left: -40px;
+    }
+}
+
+
+
 /* media query responsive */
 @media (max-width: 1399px) {
     .sticky-wrap.shadow-in { left: 25px; }
